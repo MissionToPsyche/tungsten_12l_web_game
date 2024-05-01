@@ -1,0 +1,1 @@
+# CSE485-NASA-12L-WebBasedGame-Psyche - The source code can be compiled by building the project in the Unity Editor. Standard C Sharp code is used alongside Unity packages. To be fully functional, however, the game must be viewed in full-screen mode.
